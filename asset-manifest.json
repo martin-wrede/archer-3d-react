@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://martin-wrede.github.io/csb-zteiko/static/css/main.df6c9d9c.chunk.css",
+    "main.js": "https://martin-wrede.github.io/csb-zteiko/static/js/main.45043991.chunk.js",
+    "main.js.map": "https://martin-wrede.github.io/csb-zteiko/static/js/main.45043991.chunk.js.map",
+    "runtime-main.js": "https://martin-wrede.github.io/csb-zteiko/static/js/runtime-main.4e0f937f.js",
+    "runtime-main.js.map": "https://martin-wrede.github.io/csb-zteiko/static/js/runtime-main.4e0f937f.js.map",
+    "static/js/2.752bff5d.chunk.js": "https://martin-wrede.github.io/csb-zteiko/static/js/2.752bff5d.chunk.js",
+    "static/js/2.752bff5d.chunk.js.map": "https://martin-wrede.github.io/csb-zteiko/static/js/2.752bff5d.chunk.js.map",
+    "index.html": "https://martin-wrede.github.io/csb-zteiko/index.html",
+    "static/css/main.df6c9d9c.chunk.css.map": "https://martin-wrede.github.io/csb-zteiko/static/css/main.df6c9d9c.chunk.css.map",
+    "static/js/2.752bff5d.chunk.js.LICENSE.txt": "https://martin-wrede.github.io/csb-zteiko/static/js/2.752bff5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e0f937f.js",
+    "static/js/2.752bff5d.chunk.js",
+    "static/css/main.df6c9d9c.chunk.css",
+    "static/js/main.45043991.chunk.js"
+  ]
+}
